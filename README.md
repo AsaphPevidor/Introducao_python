@@ -1,6 +1,6 @@
 # Introducao ao python
 
-###Temas abordados:
+Temas abordados:
   - Tipos de variaveis (int, str, float, bool)
   - Funções Builtins
   - Operadores Aritméticos (*, /, //, +, -, **, %)
